@@ -28,7 +28,7 @@ $ cmake --build ./_build
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/debain/polyndrap/workspace/projects/lab03/formatter_lib/_build
+-- Build files have been written to: /home/whyimcrying/whyimcrying/workspace/projects/lab03/formatter_lib/_build
 ```
 
 ```
@@ -110,7 +110,7 @@ target_link_libraries(main formatter_ex_lib)		 # Линковка програм
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/debain/polyndrap/workspace/projects/lab03/hello_world_application/_build
+-- Build files have been written to: /home/whyimcrying/whyimcrying/workspace/projects/lab03/hello_world_application/_build
 2. Solver_application
 ```
 $ cd ../solver_lib/
